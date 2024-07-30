@@ -6,4 +6,3 @@ Download the repo, enable dev mode and load unpacked to your browser.
 Removes:<br>
 - Footer
 - Premium banner
-- Donation form
